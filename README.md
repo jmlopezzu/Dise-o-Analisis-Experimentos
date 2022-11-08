@@ -1,2 +1,2 @@
-# Dise-o-Analisis-Experimentos
+# Diseno-Analisis-Experimentos
 Diseño-Analisis-Experimentos un
